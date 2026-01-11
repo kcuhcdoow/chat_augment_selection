@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poller Display</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: rgba(0, 0, 0, 0.5); /* Transparent background */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        .text-field {
+            position: absolute;
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+    <script src="https://cdn.socket.io/4.5.0/socket.io.min.js"></script>
+</head>
+<body>
+    <script>
+        const socket = io('http://127.0.0.1:5000');
+
+        // Dynamically update poll options when received
+        socket.on('poll_options', (options) => {
+            const body = document.body;
+            body.innerHTML = ''; // Clear existing options
+
+            const coordinates = [
+                [550, 250], [960, 250], [1370, 250],
+                [550, 900], [960, 900], [1370, 900]
+            ];
+
+            options.forEach((option, index) => {
+                const div = document.createElement('div');
+                div.id = `field-${option}`;
+                div.className = 'text-field';
+
+                if (index < coordinates.length) {
+                    div.style.left = `${coordinates[index][0]}px`;
+                    div.style.top = `${coordinates[index][1]}px`;
+                }
+
+                div.textContent = `${option}: 0%`;
+                body.appendChild(div);
+            });
+        });
+
+        socket.on('poll_update', (percentages) => {
+            console.log('Received percentages:', percentages); // Debugging
+            Object.entries(percentages).forEach(([key, value]) => {
+                const field = document.getElementById(`field-${key}`);
+                if (field) {
+                    field.textContent = `${key}: ${value.toFixed(2)}%`;
+                }
+            });
+        });
+    </script>
+</body>
+</html>

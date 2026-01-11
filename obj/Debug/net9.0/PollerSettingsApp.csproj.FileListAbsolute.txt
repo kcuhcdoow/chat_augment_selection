@@ -1,0 +1,4 @@
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net9.0\PollerSettingsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net9.0\PollerSettingsApp.AssemblyInfoInputs.cache
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net9.0\PollerSettingsApp.AssemblyInfo.cs
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net9.0\PollerSettingsApp.csproj.CoreCompileInputs.cache

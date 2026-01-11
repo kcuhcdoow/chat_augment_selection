@@ -1,0 +1,14 @@
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\bin\Debug\net6.0-windows\PollerSettingsApp.exe
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\bin\Debug\net6.0-windows\PollerSettingsApp.deps.json
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\bin\Debug\net6.0-windows\PollerSettingsApp.runtimeconfig.json
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\bin\Debug\net6.0-windows\PollerSettingsApp.dll
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\bin\Debug\net6.0-windows\PollerSettingsApp.pdb
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\PollerSettingsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\PollerSettingsApp.AssemblyInfoInputs.cache
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\PollerSettingsApp.AssemblyInfo.cs
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\PollerSettingsApp.csproj.CoreCompileInputs.cache
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\PollerSettingsApp.dll
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\refint\PollerSettingsApp.dll
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\PollerSettingsApp.pdb
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\PollerSettingsApp.genruntimeconfig.cache
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\ref\PollerSettingsApp.dll
