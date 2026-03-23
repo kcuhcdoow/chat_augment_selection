@@ -30,6 +30,8 @@ namespace PollerSettingsGUI
             enableRerolls.Text = "Enable Rerolls";
             enableRerolls.Top = 20;
             enableRerolls.Left = 20;
+            enableRerolls.Width = 160;
+            enableRerolls.ForeColor = System.Drawing.Color.White;
             this.Controls.Add(enableRerolls);
 
             // Rerolls Hint Label

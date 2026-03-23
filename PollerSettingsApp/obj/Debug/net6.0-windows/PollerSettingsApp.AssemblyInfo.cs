@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PollerSettingsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9efb87dba5c10f1a26784ad2bd6485eac94cf04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cf40032f616cf8ced2aee9527f276aab8f8b23d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PollerSettingsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PollerSettingsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

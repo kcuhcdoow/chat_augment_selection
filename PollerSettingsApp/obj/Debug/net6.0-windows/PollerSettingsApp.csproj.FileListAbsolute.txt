@@ -12,3 +12,4 @@ C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsAp
 C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\PollerSettingsApp.pdb
 C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\PollerSettingsApp.genruntimeconfig.cache
 C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\ref\PollerSettingsApp.dll
+C:\Users\aidan\OneDrive\Documents\Github\chat_augment_selection\PollerSettingsApp\obj\Debug\net6.0-windows\PollerSettingsApp.sourcelink.json

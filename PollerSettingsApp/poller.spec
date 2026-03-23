@@ -6,11 +6,8 @@ a = Analysis(
     pathex=[],
     binaries=[],
     datas=[],
-        hiddenimports=[
-            'json', 'pyautogui', 'flask', 'flask_socketio', 'socketio', 'python_socketio', 'engineio',
-            'eventlet', 'gevent', 'geventwebsocket', 'simple_websocket', 'threading', 'logging'
-        ],
-        hookspath=['.'],
+    hiddenimports=[],
+    hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
     excludes=[],
